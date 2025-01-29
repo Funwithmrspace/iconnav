@@ -1,0 +1,27 @@
+body{
+    margin:0;
+  }
+  header{
+    justify-content: space-between;
+    background-color: #ffffff;
+    display: flex;
+    box-shadow: -1px 6px 5px 0px rgba(0,0,0,0.45);
+  }
+  nav a {
+      float: left;
+      text-align: center;
+      padding: 25px 10px;
+      color: rgb(0, 0, 0);
+      text-decoration: none;
+  }
+  nav a:hover {
+      background-color: rgb(182, 182, 182);
+  }
+  img{
+    width: 200px;
+    height: 63px;
+    position: absolute;
+    top: 3px;
+    right: 3px;
+  }
+  
